@@ -1,4 +1,4 @@
-n, *a = map(int, open('27a.txt'))
+n, *a = map(int, open('../37162reshuege/27a.txt'))
 k = 43
 max_sum = 0
 for i in range(n):
