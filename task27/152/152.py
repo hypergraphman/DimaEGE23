@@ -12,6 +12,7 @@ def count_5_2(n):
     return count_5, count_2
 
 
+
 n, *a = map(int, open('27-152b.txt'))
 t = [[0] * 7 for _ in range(7)]
 c = 0
